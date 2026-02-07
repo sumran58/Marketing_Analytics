@@ -1,0 +1,1364 @@
+ReviewID,CustomerID,ReviewDate,Rating,ProductID,ReviewText,SentimentScores,SentimentCategory,SentimentBucket
+1,77,2023-12-23,3,18,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+2,80,2024-12-25,5,19,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+3,50,2025-01-26,4,13,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+4,78,2025-04-21,3,15,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+5,64,2023-07-16,3,2,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+6,81,2025-12-21,4,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+7,16,2024-01-29,3,1,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+8,55,2024-08-15,5,8,The quality  is top-notch.,0.0,Positive,0.0 to 0.49
+9,3,2023-09-01,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+10,78,2024-06-17,5,6,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+11,54,2023-07-17,4,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+12,77,2025-01-13,2,2,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+13,93,2024-08-20,5,6,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+14,23,2025-06-16,4,2,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+15,29,2023-01-27,5,11,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+16,95,2023-01-06,5,17,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+17,88,2025-10-29,3,4,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+18,17,2024-11-23,4,16,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+19,34,2024-01-04,4,13,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+20,34,2023-04-29,1,6,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+21,22,2023-04-08,5,15,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+22,52,2025-10-30,4,3,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+23,69,2023-07-02,5,18,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+24,100,2025-07-18,3,4,"I love this  product, will buy again!",0.6696,Mixed Positive,0.5 to 1.0
+25,55,2024-12-19,4,20,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+26,76,2024-08-21,4,11,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+27,56,2025-11-24,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+28,76,2025-05-27,5,8,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+29,38,2023-05-31,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+30,84,2024-03-18,4,6,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+31,93,2025-08-25,3,4,"Good quality, but could be  cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+32,91,2023-07-15,4,1,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+33,30,2023-02-21,4,2,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+34,81,2024-03-30,5,15,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+35,27,2024-03-13,3,12,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+36,96,2025-12-05,3,9,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+37,38,2023-09-11,3,3,"Average experience, nothing  special.",-0.3089,Mixed Negative,-0.49 to 0.0
+38,45,2024-05-07,5,17,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+39,54,2023-10-02,5,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+40,33,2025-01-03,5,2,Five stars  for the quick delivery.,0.0,Positive,0.0 to 0.49
+41,93,2025-05-15,3,17,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+42,72,2023-03-21,5,15,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+43,84,2025-02-02,4,15,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+44,44,2023-04-20,5,17,"Excellent product,  highly recommend!",0.7773,Positive,0.5 to 1.0
+45,11,2023-03-23,3,16,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+46,27,2025-05-07,4,5,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+47,19,2024-06-01,4,13,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+48,70,2023-10-08,4,17,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+49,3,2025-06-09,3,7,"Good quality, but could  be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+50,62,2023-01-07,1,4,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+51,49,2023-04-14,4,17,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+52,75,2024-04-07,4,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+53,73,2025-12-28,4,18,Five stars for  the quick delivery.,0.0,Positive,0.0 to 0.49
+54,33,2023-05-03,5,8,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+55,57,2025-11-03,3,9,Customer support was  very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+56,15,2025-12-11,3,10,Shipping was fast and the item was well-packaged.,0.0,Neutral,0.0 to 0.49
+57,41,2024-04-06,2,10,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+58,78,2024-07-16,2,7,"The product  is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+59,98,2024-09-01,4,9,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+60,11,2023-12-27,4,16,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+61,50,2023-02-24,4,19,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+62,35,2023-03-18,2,17,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+63,93,2025-01-05,4,2,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+64,86,2025-10-30,4,11,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+65,34,2024-06-15,1,3,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+66,94,2023-06-17,4,16,"I love this product, will buy  again!",0.6696,Positive,0.5 to 1.0
+67,67,2025-04-12,3,13,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+68,38,2023-03-23,3,7,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+69,77,2025-08-03,3,12,Five stars for the quick delivery.,0.0,Neutral,0.0 to 0.49
+70,93,2024-01-30,4,5,Shipping was fast  and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+71,24,2025-07-28,3,11,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+72,29,2023-05-29,5,4,The  build quality is impressive.,0.5106,Positive,0.5 to 1.0
+73,68,2025-05-05,5,19,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+74,59,2023-05-16,3,9,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+75,22,2024-01-13,5,3,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+76,9,2025-08-31,4,10,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+77,74,2023-03-15,4,5,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+78,6,2024-12-09,5,10,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+79,84,2024-05-28,2,15,The product arrived  late.,0.0,Negative,0.0 to 0.49
+80,98,2025-05-24,3,16,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+81,3,2024-09-04,4,19,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+82,78,2023-05-02,4,13,Shipping  was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+83,32,2025-05-26,4,11,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+84,40,2023-07-17,4,20,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+85,17,2025-10-25,5,6,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+86,78,2025-10-06,5,3,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+87,89,2023-05-26,3,17,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+88,93,2025-08-26,4,19,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+89,60,2024-07-08,3,3,The quality is top-notch.,0.0,Neutral,0.0 to 0.49
+90,47,2025-11-12,4,17,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+91,4,2025-09-27,3,16,"Great purchase, very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+92,2,2023-11-21,3,16,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+93,60,2024-09-05,3,13,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+94,2,2025-03-14,4,16,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+95,16,2024-04-07,4,16,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+96,19,2023-09-02,3,13,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+97,64,2024-01-19,3,6,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+98,96,2025-11-20,5,3,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+99,79,2025-01-29,2,16,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+100,9,2025-06-20,3,2,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+101,61,2024-09-11,5,18,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+102,4,2025-08-22,5,2,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+103,82,2024-11-17,5,14,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+104,96,2023-01-06,4,5,"I love  this product, will buy again!",0.6696,Positive,0.5 to 1.0
+105,32,2024-08-27,2,12,The product  arrived late.,0.0,Negative,0.0 to 0.49
+106,94,2024-02-25,2,17,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+107,26,2025-02-17,5,10,Five stars for  the quick delivery.,0.0,Positive,0.0 to 0.49
+108,80,2023-12-22,5,17,Five stars for the  quick delivery.,0.0,Positive,0.0 to 0.49
+109,38,2023-07-25,4,10,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+110,54,2024-08-02,4,12,Customer  support was very helpful.,0.6997,Positive,0.5 to 1.0
+111,43,2023-11-05,4,7,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+112,87,2023-05-26,5,3,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+113,27,2024-03-31,2,9,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+114,52,2025-05-04,2,19,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+115,82,2023-09-28,4,9,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+116,70,2023-07-23,4,18,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+117,20,2025-04-19,4,14,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+118,59,2024-05-01,1,6,The product arrived late.,0.0,Negative,0.0 to 0.49
+119,34,2025-09-06,4,5,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+120,3,2024-08-18,4,20,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+121,91,2025-11-02,2,1,"Good quality, but could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+122,83,2024-09-27,2,14,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+123,93,2025-09-22,4,1,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+124,36,2023-07-17,5,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+125,55,2025-12-20,5,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+126,32,2024-08-12,5,10,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+127,47,2025-03-25,4,8,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+128,71,2023-12-13,2,20,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+129,46,2025-02-14,4,13,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+130,88,2025-09-22,5,3,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+131,42,2023-06-16,5,5,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+132,21,2025-11-13,2,7,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+133,40,2025-05-24,4,4,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+134,74,2024-03-27,3,4,"Good quality, but could  be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+135,48,2023-06-08,4,14,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+136,17,2025-03-27,5,3,Amazing value for  the price.,0.7351,Positive,0.5 to 1.0
+137,88,2023-03-02,4,6,"Good quality, but could  be cheaper.",0.2382,Positive,0.0 to 0.49
+138,28,2023-01-18,5,15,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+139,36,2023-04-20,4,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+140,53,2023-12-03,3,18,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+141,98,2024-10-15,5,9,Amazing value for the  price.,0.7351,Positive,0.5 to 1.0
+142,15,2023-08-04,5,7,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+143,3,2023-04-12,3,12,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+144,27,2025-08-16,4,15,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+145,27,2024-03-05,3,10,"The  product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+146,5,2025-01-09,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+147,100,2025-01-25,2,20,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+148,17,2024-11-05,1,18,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+149,50,2023-12-20,4,3,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+150,4,2024-06-18,5,15,"I love this product, will buy  again!",0.6696,Positive,0.5 to 1.0
+151,21,2023-10-30,3,19,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+152,32,2025-12-15,3,16,"Good quality, but  could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+153,95,2023-11-06,5,11,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+154,3,2023-12-19,4,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+155,89,2025-12-10,4,3,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+156,5,2025-01-26,5,7,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+157,10,2025-10-14,2,17,The product arrived late.,0.0,Negative,0.0 to 0.49
+158,37,2024-04-16,5,2,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+159,23,2023-09-01,5,12,"I love this product,  will buy again!",0.6696,Positive,0.5 to 1.0
+160,71,2024-01-02,2,9,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+161,9,2025-08-05,2,18,The product arrived  late.,0.0,Negative,0.0 to 0.49
+162,64,2023-07-25,3,20,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+163,89,2023-05-27,5,7,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+164,25,2024-03-16,2,19,Product did not  meet my expectations.,0.0,Negative,0.0 to 0.49
+165,97,2025-06-03,4,3,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+166,87,2023-11-01,3,3,"Good  quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+167,28,2023-08-02,2,16,Product did not meet  my expectations.,0.0,Negative,0.0 to 0.49
+168,72,2025-12-13,3,2,Customer support was very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+169,26,2025-09-28,5,8,Five stars for the quick  delivery.,0.0,Positive,0.0 to 0.49
+170,53,2024-06-23,5,13,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+171,2,2024-02-16,3,16,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+172,79,2024-11-23,3,2,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+173,15,2025-05-30,5,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+174,91,2024-06-23,4,8,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+175,3,2024-11-02,3,6,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+176,21,2023-11-23,3,11,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+177,93,2025-07-03,4,19,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+178,17,2025-05-25,4,20,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+179,46,2025-11-26,4,20,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+180,77,2023-03-08,4,5,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+181,4,2024-08-09,4,3,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+182,21,2024-03-08,5,11,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+183,13,2025-06-08,4,5,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+184,59,2024-12-29,4,5,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+185,8,2023-11-13,2,6,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+186,22,2023-02-17,4,13,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+187,58,2025-05-01,4,18,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+188,70,2025-09-19,5,5,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+189,83,2025-03-13,2,7,The product  arrived late.,0.0,Negative,0.0 to 0.49
+190,83,2023-08-10,3,3,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+191,68,2024-09-05,4,3,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+192,42,2023-08-04,5,17,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+193,84,2024-06-21,3,20,"The product is okay, but the instructions were  unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+194,7,2025-05-19,1,7,The product arrived late.,0.0,Negative,0.0 to 0.49
+195,75,2023-10-25,5,5,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+196,91,2023-10-29,3,2,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+197,51,2024-11-27,4,15,"I love this product,  will buy again!",0.6696,Positive,0.5 to 1.0
+198,57,2023-08-27,5,8,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+199,6,2024-08-20,5,13,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+200,30,2025-01-09,3,17,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+201,59,2023-05-23,2,6,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+202,33,2023-09-06,5,9,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+203,66,2023-11-22,3,18,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+204,95,2024-11-29,4,14,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+205,88,2023-04-06,5,12,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+206,72,2023-08-22,4,14,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+207,95,2025-06-07,4,18,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+208,94,2023-03-25,4,8,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+209,70,2025-11-05,3,8,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+210,28,2023-12-10,2,1,The product arrived late.,0.0,Negative,0.0 to 0.49
+211,84,2025-03-07,4,12,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+212,87,2023-01-03,1,10,"Terrible customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+213,7,2024-04-09,5,13,Shipping was fast and  the item was well-packaged.,0.0,Positive,0.0 to 0.49
+214,53,2025-04-13,3,18,Five stars for the quick delivery.,0.0,Neutral,0.0 to 0.49
+215,55,2024-01-07,2,10,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+216,49,2023-11-14,3,7,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+217,62,2023-08-19,5,11,Amazing value  for the price.,0.7351,Positive,0.5 to 1.0
+218,35,2024-09-14,4,8,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+219,90,2023-02-18,4,9,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+220,78,2025-08-12,2,9,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+221,26,2024-10-21,4,2,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+222,54,2024-02-28,5,14,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+223,37,2023-07-31,5,16,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+224,68,2023-03-27,4,15,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+225,80,2025-09-08,3,1,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+226,60,2023-08-23,2,9,The product arrived late.,0.0,Negative,0.0 to 0.49
+227,74,2024-08-10,4,11,"Good  quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+228,20,2025-10-23,2,19,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+229,69,2023-02-07,4,12,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+230,54,2023-10-19,2,11,The product arrived late.,0.0,Negative,0.0 to 0.49
+231,15,2025-04-15,5,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+232,17,2025-10-11,5,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+233,81,2024-11-14,2,4,The product arrived late.,0.0,Negative,0.0 to 0.49
+234,80,2023-03-06,5,9,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+235,54,2024-03-18,4,3,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+236,55,2025-03-03,5,16,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+237,44,2025-09-29,4,2,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+238,47,2023-04-18,4,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+239,45,2024-01-28,5,9,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+240,20,2024-11-09,5,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+241,61,2024-04-22,4,15,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+242,20,2025-06-07,4,20,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+243,24,2023-02-17,1,11,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+244,36,2023-08-25,4,4,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+245,50,2023-03-23,3,3,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+246,71,2023-07-23,4,12,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+247,28,2025-11-24,5,6,"Excellent product, highly  recommend!",0.7773,Positive,0.5 to 1.0
+248,81,2023-07-15,3,6,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+249,75,2023-01-04,1,2,"Not  satisfied, the product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+250,22,2023-09-21,1,11,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+251,16,2024-02-01,4,2,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+252,6,2025-03-18,5,6,The build quality is  impressive.,0.5106,Positive,0.5 to 1.0
+253,75,2024-08-03,3,15,"Great purchase, very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+254,30,2025-12-31,3,19,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+255,13,2024-01-23,5,16,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+256,91,2024-02-11,4,3,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+257,84,2023-10-03,3,13,"Average experience, nothing  special.",-0.3089,Mixed Negative,-0.49 to 0.0
+258,34,2025-05-13,4,7,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+259,75,2023-08-24,3,2,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+260,44,2024-03-07,3,18,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+261,29,2024-10-15,4,12,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+262,45,2024-07-07,5,7,Five stars for  the quick delivery.,0.0,Positive,0.0 to 0.49
+263,47,2024-10-21,4,8,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+264,96,2025-08-19,4,18,Shipping was fast and the  item was well-packaged.,0.0,Positive,0.0 to 0.49
+265,22,2024-05-14,4,19,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+266,62,2025-02-22,5,5,"Excellent product,  highly recommend!",0.7773,Positive,0.5 to 1.0
+267,55,2023-12-01,3,19,"The product is  okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+268,98,2023-10-28,5,17,The build quality  is impressive.,0.5106,Positive,0.5 to 1.0
+269,75,2023-11-18,4,4,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+270,46,2023-09-25,1,6,The color was different from what was shown.,0.0,Negative,0.0 to 0.49
+271,21,2025-08-08,5,17,The  build quality is impressive.,0.5106,Positive,0.5 to 1.0
+272,39,2023-03-26,5,17,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+273,10,2024-10-09,5,2,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+274,93,2023-04-07,5,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+275,45,2023-04-03,4,12,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+276,86,2025-01-29,5,1,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+277,22,2025-03-21,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+278,80,2023-03-01,5,20,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+279,86,2023-07-21,5,5,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+280,68,2023-11-09,4,19,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+281,71,2025-11-19,4,5,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+282,59,2023-02-17,3,5,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+283,87,2023-02-14,5,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+284,89,2023-09-01,4,13,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+285,29,2023-08-25,4,3,"Good quality, but could  be cheaper.",0.2382,Positive,0.0 to 0.49
+286,53,2023-05-04,5,16,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+287,75,2025-02-14,5,6,"I love this product, will  buy again!",0.6696,Positive,0.5 to 1.0
+288,68,2024-06-21,5,17,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+289,87,2023-10-04,5,15,Customer support was  very helpful.,0.6997,Positive,0.5 to 1.0
+290,20,2024-09-23,2,14,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+291,17,2025-12-06,5,7,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+292,15,2025-10-19,5,7,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+293,25,2023-02-14,3,13,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+294,63,2023-11-09,3,13,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+295,61,2024-10-13,3,6,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+296,85,2023-12-13,4,18,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+297,92,2023-08-06,3,16,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+298,41,2025-06-13,4,15,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+299,93,2024-02-01,1,13,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+300,22,2023-05-09,2,18,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+301,6,2023-05-30,4,7,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+302,64,2024-10-08,5,19,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+303,20,2024-04-25,4,10,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+304,66,2023-02-01,3,14,"Average  experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+305,87,2023-08-25,4,7,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+306,52,2025-07-19,3,8,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+307,63,2025-01-08,5,16,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+308,90,2023-04-02,5,14,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+309,70,2023-02-02,3,11,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+310,40,2024-11-30,5,1,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+311,52,2023-11-14,4,11,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+312,90,2023-11-05,2,3,The product arrived late.,0.0,Negative,0.0 to 0.49
+313,13,2024-01-14,4,3,"I  love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+314,22,2025-10-06,2,17,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+315,32,2025-06-13,4,7,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+316,48,2025-08-15,5,4,Five stars for the quick  delivery.,0.0,Positive,0.0 to 0.49
+317,15,2023-08-04,3,6,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+318,97,2023-12-15,4,4,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+319,86,2024-12-11,5,6,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+320,79,2023-02-24,4,17,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+321,58,2024-04-17,4,12,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+322,76,2024-12-01,4,13,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+323,47,2023-04-24,4,4,Shipping was  fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+324,89,2024-07-08,4,5,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+325,78,2023-04-17,4,6,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+326,17,2024-06-15,4,14,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+327,95,2023-08-25,4,8,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+328,100,2024-02-20,2,13,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+329,6,2024-12-07,3,9,The quality is top-notch.,0.0,Neutral,0.0 to 0.49
+330,22,2023-03-18,4,14,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+331,68,2023-08-17,5,4,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+332,2,2024-11-06,5,10,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+333,87,2024-06-02,4,5,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+334,70,2025-04-14,5,9,Five stars for the quick  delivery.,0.0,Positive,0.0 to 0.49
+335,75,2024-03-12,5,14,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+336,8,2024-02-07,2,8,The product arrived late.,0.0,Negative,0.0 to 0.49
+337,32,2024-05-22,3,19,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+338,98,2023-01-22,2,4,The product arrived late.,0.0,Negative,0.0 to 0.49
+339,38,2025-01-11,5,2,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+340,95,2025-09-16,5,17,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+341,62,2024-11-04,2,3,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+342,19,2025-06-15,4,4,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+343,84,2025-04-13,3,4,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+344,21,2025-11-02,3,10,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+345,48,2024-07-24,4,4,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+346,84,2025-06-27,5,15,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+347,75,2025-08-19,1,16,Disappointed  with the performance.,-0.4767,Negative,-0.49 to 0.0
+348,52,2024-03-05,2,13,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+349,26,2024-11-19,3,11,"I love this product, will buy again!",0.6696,Mixed Positive,0.5 to 1.0
+350,57,2025-08-22,3,6,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+351,55,2023-05-02,3,5,"The product is okay, but  the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+352,43,2025-12-22,3,11,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+353,36,2025-09-08,5,15,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+354,50,2024-01-03,2,18,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+355,59,2024-03-04,2,9,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+356,86,2023-11-23,1,14,The product arrived late.,0.0,Negative,0.0 to 0.49
+357,1,2024-04-01,4,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+358,13,2023-11-20,3,15,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+359,79,2024-05-04,5,15,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+360,33,2025-09-09,5,15,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+361,71,2024-02-12,5,7,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+362,33,2024-02-11,3,11,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+363,17,2025-04-15,4,15,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+364,46,2024-04-26,5,8,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+365,90,2025-10-24,3,20,"Good quality, but could be  cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+366,46,2023-11-14,5,7,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+367,96,2024-07-02,3,1,Not worth the  money.,-0.1695,Mixed Negative,-0.49 to 0.0
+368,34,2025-05-11,1,8,"Not satisfied, the product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+369,48,2024-12-19,4,4,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+370,73,2023-04-13,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+371,29,2024-01-20,2,1,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+372,91,2023-05-10,4,6,"I love this product, will  buy again!",0.6696,Positive,0.5 to 1.0
+373,92,2025-07-12,1,14,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+374,89,2023-02-08,1,12,The product  stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+375,73,2024-12-16,5,4,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+376,38,2023-07-03,3,6,"Good quality,  but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+377,77,2023-11-29,5,4,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+378,64,2024-03-20,2,9,The product arrived  late.,0.0,Negative,0.0 to 0.49
+379,62,2023-01-27,5,4,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+380,52,2024-02-23,4,4,"I love  this product, will buy again!",0.6696,Positive,0.5 to 1.0
+381,45,2024-01-24,3,4,"Good quality, but  could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+382,38,2023-09-03,4,7,"Good quality,  but could be cheaper.",0.2382,Positive,0.0 to 0.49
+383,54,2024-09-05,5,13,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+384,20,2025-06-04,3,3,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+385,81,2023-06-09,4,5,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+386,86,2024-04-09,3,5,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+387,42,2025-03-29,5,14,Shipping was fast and the  item was well-packaged.,0.0,Positive,0.0 to 0.49
+388,99,2025-12-10,1,1,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+389,14,2024-09-14,5,2,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+390,30,2023-05-22,3,10,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+391,98,2024-01-05,3,20,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+392,93,2023-06-29,5,11,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+393,6,2024-04-18,2,20,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+394,7,2024-10-19,3,4,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+395,35,2025-04-12,4,9,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+396,75,2025-09-12,3,6,"Good  quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+397,11,2024-04-23,4,14,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+398,17,2023-09-02,5,7,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+399,68,2024-07-21,3,1,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+400,42,2023-06-30,3,10,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+401,93,2024-04-13,4,18,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+402,68,2025-12-16,4,12,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+403,53,2023-06-18,3,14,"Good quality, but  could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+404,90,2025-06-04,4,7,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+405,43,2025-09-10,5,4,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+406,11,2025-12-15,5,9,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+407,79,2023-01-12,2,11,Disappointed with the  performance.,-0.4767,Negative,-0.49 to 0.0
+408,17,2023-12-12,5,4,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+409,59,2023-02-22,5,19,"I love this product, will buy  again!",0.6696,Positive,0.5 to 1.0
+410,83,2023-01-11,1,1,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+411,32,2023-03-05,3,15,"The product is okay, but the  instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+412,83,2024-05-10,4,7,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+413,60,2023-08-24,5,12,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+414,59,2025-07-31,4,14,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+415,97,2025-06-04,2,8,Disappointed with the  performance.,-0.4767,Negative,-0.49 to 0.0
+416,15,2023-04-19,5,17,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+417,9,2024-11-28,3,16,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+418,94,2025-03-02,1,2,"Not satisfied, the product broke after a  week.",-0.6288,Negative,-1.0 to -0.5
+419,68,2025-09-01,1,6,The color was different from what was shown.,0.0,Negative,0.0 to 0.49
+420,18,2023-06-10,5,11,"I love this  product, will buy again!",0.6696,Positive,0.5 to 1.0
+421,75,2025-08-18,5,13,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+422,81,2025-09-30,4,17,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+423,76,2023-08-01,2,18,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+424,53,2024-03-21,4,11,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+425,89,2025-03-04,2,6,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+426,74,2024-04-07,4,17,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+427,81,2025-08-20,4,11,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+428,58,2025-01-17,5,9,The build  quality is impressive.,0.5106,Positive,0.5 to 1.0
+429,71,2023-06-08,4,2,Customer  support was very helpful.,0.6997,Positive,0.5 to 1.0
+430,99,2025-08-03,2,9,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+431,94,2023-02-10,3,11,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+432,31,2025-02-14,4,18,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+433,72,2025-06-11,5,2,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+434,7,2023-02-25,5,18,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+435,65,2023-02-28,5,1,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+436,11,2024-01-03,4,1,Shipping was fast  and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+437,73,2023-06-24,5,4,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+438,72,2023-09-13,5,20,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+439,67,2025-11-11,3,11,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+440,93,2023-07-22,3,7,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+441,12,2023-09-03,1,6,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+442,28,2025-04-06,1,8,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+443,37,2024-01-19,3,13,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+444,22,2023-10-20,5,16,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+445,25,2023-05-27,3,14,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+446,84,2025-06-10,5,14,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+447,38,2024-08-19,4,2,Shipping  was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+448,75,2025-12-25,4,12,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+449,43,2024-03-10,5,14,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+450,92,2024-08-04,5,4,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+451,68,2023-04-18,5,11,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+452,42,2024-08-28,4,19,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+453,100,2023-04-23,4,2,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+454,27,2025-09-17,4,9,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+455,79,2024-07-30,3,20,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+456,2,2024-01-09,2,1,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+457,29,2024-12-12,3,1,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+458,42,2025-07-05,4,20,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+459,90,2023-06-16,4,17,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+460,92,2025-08-09,4,16,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+461,66,2025-10-11,4,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+462,85,2023-02-02,5,14,The  build quality is impressive.,0.5106,Positive,0.5 to 1.0
+463,5,2025-11-02,3,2,"Great purchase, very  satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+464,73,2024-05-28,4,11,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+465,43,2025-12-14,1,12,Disappointed  with the performance.,-0.4767,Negative,-0.49 to 0.0
+466,49,2023-02-16,5,16,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+467,29,2023-07-16,3,16,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+468,12,2024-01-09,5,12,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+469,54,2023-10-06,4,13,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+470,46,2025-10-24,4,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+471,88,2024-04-26,5,4,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+472,69,2024-12-05,4,8,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+473,7,2024-08-03,1,19,The product arrived late.,0.0,Negative,0.0 to 0.49
+474,47,2025-05-31,3,20,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+475,74,2023-04-18,4,20,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+476,54,2023-12-12,4,10,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+477,91,2025-04-25,4,10,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+478,79,2023-07-23,5,6,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+479,7,2024-12-28,4,13,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+480,90,2023-07-22,5,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+481,21,2024-12-02,4,2,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+482,49,2025-07-11,5,10,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+483,28,2024-06-29,2,20,The product arrived late.,0.0,Negative,0.0 to 0.49
+484,36,2023-08-22,1,10,The product arrived late.,0.0,Negative,0.0 to 0.49
+485,66,2025-06-10,5,18,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+486,44,2024-01-20,3,3,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+487,78,2025-05-01,1,3,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+488,89,2025-02-24,5,12,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+489,15,2023-11-09,4,8,Five stars  for the quick delivery.,0.0,Positive,0.0 to 0.49
+490,46,2025-07-05,4,11,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+491,59,2023-06-22,4,6,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+492,94,2025-03-19,2,20,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+493,26,2024-07-16,5,2,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+494,2,2025-05-25,5,13,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+495,56,2023-04-26,4,7,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+496,87,2024-01-29,5,1,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+497,90,2024-02-21,4,6,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+498,81,2025-01-17,3,17,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+499,72,2024-08-26,4,6,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+500,57,2025-12-20,2,9,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+501,39,2023-12-01,4,12,Customer support was  very helpful.,0.6997,Positive,0.5 to 1.0
+502,5,2025-11-10,2,1,Product  did not meet my expectations.,0.0,Negative,0.0 to 0.49
+503,5,2024-07-03,2,16,Product did not meet  my expectations.,0.0,Negative,0.0 to 0.49
+504,35,2024-01-18,4,8,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+505,82,2024-07-11,5,2,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+506,80,2025-10-19,2,8,"Average experience,  nothing special.",-0.3089,Negative,-0.49 to 0.0
+507,66,2024-12-10,3,3,Customer support  was very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+508,64,2025-01-19,3,14,"Good quality, but could be  cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+509,5,2024-05-25,5,11,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+510,20,2024-11-05,4,6,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+511,55,2025-04-01,1,15,Not  worth the money.,-0.1695,Negative,-0.49 to 0.0
+512,11,2025-01-15,3,1,Shipping was fast and the item was well-packaged.,0.0,Neutral,0.0 to 0.49
+513,21,2025-11-09,5,3,Amazing value  for the price.,0.7351,Positive,0.5 to 1.0
+514,72,2023-06-18,2,15,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+515,89,2024-12-06,3,3,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+516,46,2025-01-03,4,18,The quality  is top-notch.,0.0,Positive,0.0 to 0.49
+517,29,2024-03-30,5,4,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+518,17,2024-04-27,4,12,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+519,58,2023-03-06,3,4,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+520,63,2024-08-24,3,1,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+521,47,2024-03-31,2,5,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+522,8,2023-08-04,1,10,Product  did not meet my expectations.,0.0,Negative,0.0 to 0.49
+523,8,2023-12-07,5,12,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+524,27,2025-09-01,4,4,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+525,1,2023-11-23,4,1,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+526,74,2025-05-20,3,3,"Good  quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+527,27,2024-07-03,3,14,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+528,81,2024-11-09,5,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+529,19,2025-05-05,4,11,Five stars  for the quick delivery.,0.0,Positive,0.0 to 0.49
+530,48,2025-11-24,5,10,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+531,65,2024-07-21,5,3,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+532,6,2023-05-30,5,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+533,92,2024-04-06,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+534,41,2025-07-02,4,2,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+535,85,2023-03-25,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+536,33,2024-12-29,2,19,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+537,8,2023-03-11,4,9,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+538,29,2025-11-12,4,16,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+539,74,2024-12-02,4,17,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+540,28,2025-12-09,3,18,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+541,73,2025-08-08,5,20,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+542,49,2023-07-11,1,5,"Not  satisfied, the product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+543,64,2023-10-31,5,17,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+544,65,2023-10-29,5,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+545,45,2024-06-11,4,13,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+546,33,2024-11-14,5,1,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+547,28,2024-05-28,1,11,The product arrived late.,0.0,Negative,0.0 to 0.49
+548,40,2023-01-11,5,12,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+549,73,2025-04-06,4,15,Five stars for the quick  delivery.,0.0,Positive,0.0 to 0.49
+550,51,2024-10-07,3,12,Shipping was fast and the item was well-packaged.,0.0,Neutral,0.0 to 0.49
+551,45,2025-04-17,3,2,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+552,68,2023-07-28,4,1,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+553,60,2025-04-26,5,20,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+554,18,2024-08-16,2,1,The product arrived late.,0.0,Negative,0.0 to 0.49
+555,69,2025-11-24,5,18,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+556,91,2025-01-04,4,6,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+557,55,2024-07-28,3,10,"Great purchase,  very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+558,83,2025-02-11,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+559,46,2024-05-16,4,12,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+560,24,2024-11-08,5,6,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+561,6,2025-02-27,1,5,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+562,41,2024-02-25,3,5,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+563,86,2025-02-27,4,13,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+564,9,2025-10-13,5,12,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+565,60,2024-06-30,1,20,"Terrible customer service, would not  buy again.",-0.4767,Negative,-0.49 to 0.0
+566,89,2025-08-15,4,10,Five  stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+567,78,2024-02-21,5,16,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+568,17,2024-08-04,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+569,58,2024-07-17,5,9,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+570,50,2025-04-29,4,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+571,2,2024-10-15,3,8,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+572,37,2025-04-23,4,16,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+573,57,2024-04-27,4,8,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+574,72,2025-10-13,5,9,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+575,93,2025-09-19,5,14,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+576,71,2025-10-04,5,9,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+577,65,2024-04-18,4,9,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+578,32,2023-08-01,5,15,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+579,24,2024-01-16,4,8,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+580,48,2025-04-15,3,1,"Average  experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+581,69,2024-03-19,4,18,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+582,65,2023-01-29,5,9,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+583,88,2025-07-03,5,8,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+584,70,2024-12-04,4,20,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+585,87,2025-10-23,4,12,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+586,7,2023-04-11,2,17,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+587,31,2025-08-31,3,17,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+588,39,2025-09-03,3,18,Shipping was fast and the item was well-packaged.,0.0,Neutral,0.0 to 0.49
+589,64,2024-03-21,3,4,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+590,27,2024-09-13,3,4,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+591,65,2024-10-29,5,12,Five stars  for the quick delivery.,0.0,Positive,0.0 to 0.49
+592,100,2025-01-18,3,1,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+593,62,2025-06-12,5,8,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+594,14,2025-10-01,2,4,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+595,46,2025-09-18,4,5,Exceeded  my expectations!,0.0,Positive,0.0 to 0.49
+596,48,2025-06-27,3,15,"Good quality, but could  be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+597,11,2025-09-07,5,1,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+598,3,2023-08-04,5,2,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+599,94,2025-08-01,5,19,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+600,65,2025-01-11,2,3,Not worth  the money.,-0.1695,Negative,-0.49 to 0.0
+601,25,2025-07-31,5,11,Amazing  value for the price.,0.7351,Positive,0.5 to 1.0
+602,56,2023-02-08,3,8,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+603,88,2024-07-02,5,4,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+604,87,2023-06-10,3,2,"Average experience, nothing  special.",-0.3089,Mixed Negative,-0.49 to 0.0
+605,1,2023-06-17,3,3,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+606,48,2023-10-14,5,8,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+607,25,2025-07-07,3,14,"Great purchase, very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+608,7,2023-03-21,4,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+609,40,2025-10-23,3,10,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+610,69,2025-01-29,5,3,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+611,6,2023-12-06,2,4,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+612,38,2025-06-17,4,2,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+613,48,2025-02-10,3,12,"The product is okay, but the instructions  were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+614,23,2025-01-20,3,2,"I love this product, will buy again!",0.6696,Mixed Positive,0.5 to 1.0
+615,98,2025-01-08,5,1,"Excellent  product, highly recommend!",0.7773,Positive,0.5 to 1.0
+616,38,2023-11-14,5,20,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+617,29,2025-12-22,4,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+618,45,2024-08-21,4,7,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+619,68,2023-12-06,5,14,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+620,100,2024-10-22,5,1,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+621,70,2025-05-13,2,14,The product arrived late.,0.0,Negative,0.0 to 0.49
+622,30,2025-12-22,4,4,The quality  is top-notch.,0.0,Positive,0.0 to 0.49
+623,5,2025-06-15,3,1,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+624,82,2023-11-28,5,14,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+625,32,2023-02-20,5,10,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+626,38,2025-12-18,5,11,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+627,18,2023-06-26,5,6,Amazing value for  the price.,0.7351,Positive,0.5 to 1.0
+628,22,2025-08-30,3,4,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+629,16,2024-07-28,5,20,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+630,31,2024-08-14,4,10,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+631,73,2024-10-30,4,12,"Good quality, but could be  cheaper.",0.2382,Positive,0.0 to 0.49
+632,40,2023-02-24,3,20,"Average experience,  nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+633,52,2023-12-26,2,3,The  product arrived late.,0.0,Negative,0.0 to 0.49
+634,27,2024-02-25,4,13,"Good quality, but could be  cheaper.",0.2382,Positive,0.0 to 0.49
+635,85,2023-02-22,3,16,"The product is okay, but the instructions were  unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+636,37,2023-12-18,4,13,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+637,17,2024-08-21,3,7,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+638,63,2025-08-23,2,16,"Good quality, but could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+639,14,2024-07-07,5,12,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+640,23,2024-08-09,3,14,"The product is okay,  but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+641,58,2024-01-05,1,9,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+642,53,2025-04-28,2,17,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+643,89,2024-01-07,5,16,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+644,97,2023-11-25,5,10,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+645,23,2023-11-02,5,20,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+646,75,2023-10-09,5,2,"I  love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+647,68,2023-01-03,4,2,Customer support was  very helpful.,0.6997,Positive,0.5 to 1.0
+648,76,2023-03-19,4,5,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+649,8,2025-02-05,2,17,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+650,28,2024-11-08,4,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+651,38,2024-09-10,4,9,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+652,39,2025-05-06,5,19,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+653,66,2025-01-14,5,16,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+654,46,2023-01-01,1,8,The color was different from what was shown.,0.0,Negative,0.0 to 0.49
+655,63,2023-04-06,4,16,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+656,17,2024-07-22,3,11,"Good quality,  but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+657,35,2025-10-18,5,11,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+658,3,2025-06-16,1,18,Not worth the  money.,-0.1695,Negative,-0.49 to 0.0
+659,29,2023-03-16,5,20,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+660,62,2023-10-06,5,5,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+661,40,2025-09-20,2,18,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+662,15,2025-03-24,4,5,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+663,23,2025-05-26,5,10,"Excellent product, highly  recommend!",0.7773,Positive,0.5 to 1.0
+664,31,2025-08-11,3,16,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+665,99,2024-01-03,2,12,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+666,53,2024-05-25,3,19,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+667,80,2024-01-08,4,14,The quality  is top-notch.,0.0,Positive,0.0 to 0.49
+668,55,2024-04-25,5,4,"Excellent product,  highly recommend!",0.7773,Positive,0.5 to 1.0
+669,19,2025-12-31,4,19,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+670,53,2024-03-31,5,13,The build quality is  impressive.,0.5106,Positive,0.5 to 1.0
+671,24,2023-03-28,3,5,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+672,95,2025-02-15,5,14,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+673,74,2025-10-16,4,12,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+674,29,2023-08-30,3,1,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+675,24,2025-02-07,2,9,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+676,6,2024-03-14,5,12,The build quality is  impressive.,0.5106,Positive,0.5 to 1.0
+677,6,2024-03-29,4,17,Five  stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+678,49,2025-05-19,3,9,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+679,10,2025-09-29,2,8,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+680,60,2025-06-12,4,20,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+681,48,2024-03-21,5,16,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+682,80,2023-01-05,1,11,"Not satisfied, the product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+683,22,2025-04-06,3,10,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+684,92,2025-01-12,2,12,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+685,86,2024-03-22,1,14,The color was different from what was shown.,0.0,Negative,0.0 to 0.49
+686,31,2023-05-09,5,17,"I  love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+687,86,2023-07-16,2,17,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+688,32,2025-07-07,4,12,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+689,34,2025-04-23,4,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+690,61,2023-10-11,4,19,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+691,40,2024-07-27,3,7,Five stars for the quick delivery.,0.0,Neutral,0.0 to 0.49
+692,64,2023-12-22,3,10,Not worth the  money.,-0.1695,Mixed Negative,-0.49 to 0.0
+693,58,2023-08-31,5,10,The build quality is  impressive.,0.5106,Positive,0.5 to 1.0
+694,27,2024-07-05,3,13,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+695,13,2023-09-15,4,14,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+696,48,2023-10-07,4,11,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+697,13,2024-09-21,4,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+698,4,2023-06-28,3,18,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+699,42,2023-01-30,3,19,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+700,14,2023-11-23,4,2,"I  love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+701,68,2023-01-02,5,4,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+702,92,2025-02-06,3,3,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+703,3,2024-04-17,5,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+704,8,2024-09-26,5,20,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+705,88,2025-05-25,5,11,Exceeded  my expectations!,0.0,Positive,0.0 to 0.49
+706,75,2024-01-03,5,5,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+707,96,2024-08-08,2,16,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+708,70,2024-01-20,5,17,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+709,1,2023-02-25,5,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+710,88,2025-09-26,5,7,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+711,39,2023-12-07,5,12,"Excellent  product, highly recommend!",0.7773,Positive,0.5 to 1.0
+712,53,2024-09-17,3,17,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+713,55,2024-12-12,4,12,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+714,76,2023-01-11,4,2,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+715,13,2024-03-26,4,2,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+716,64,2023-08-12,3,2,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+717,82,2025-03-07,5,1,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+718,30,2023-05-19,1,20,"Terrible customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+719,24,2025-12-03,2,4,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+720,41,2025-08-05,5,4,Shipping was fast and the item was  well-packaged.,0.0,Positive,0.0 to 0.49
+721,4,2024-09-25,2,15,Not  worth the money.,-0.1695,Negative,-0.49 to 0.0
+722,68,2025-10-14,4,16,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+723,84,2023-11-22,2,7,The product arrived late.,0.0,Negative,0.0 to 0.49
+724,31,2024-01-21,4,3,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+725,13,2025-09-30,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+726,33,2024-10-16,5,20,Customer support was  very helpful.,0.6997,Positive,0.5 to 1.0
+727,39,2025-09-24,3,1,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+728,30,2024-08-23,5,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+729,99,2023-03-17,1,9,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+730,67,2025-01-15,4,6,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+731,4,2023-07-13,5,7,The build  quality is impressive.,0.5106,Positive,0.5 to 1.0
+732,56,2025-03-02,4,20,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+733,75,2024-11-07,4,13,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+734,63,2024-03-10,5,2,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+735,22,2024-03-02,4,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+736,72,2023-10-17,5,6,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+737,45,2023-10-11,3,15,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+738,3,2025-08-22,4,12,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+739,70,2023-07-05,3,18,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+740,33,2025-02-05,2,5,"Good quality, but could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+741,3,2025-05-24,3,9,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+742,84,2025-03-03,3,7,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+743,89,2023-05-15,3,3,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+744,63,2023-03-31,3,19,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+745,85,2024-05-17,5,12,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+746,24,2024-03-28,5,13,"I love  this product, will buy again!",0.6696,Positive,0.5 to 1.0
+747,84,2023-04-27,5,1,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+748,100,2025-09-15,3,13,"Great purchase,  very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+749,64,2025-06-28,2,13,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+750,3,2024-06-20,4,5,The  quality is top-notch.,0.0,Positive,0.0 to 0.49
+751,58,2025-07-11,5,17,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+752,7,2024-10-11,1,12,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+753,94,2023-01-29,5,4,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+754,55,2025-07-11,4,11,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+755,27,2024-03-31,4,15,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+756,94,2025-03-25,4,8,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+757,8,2023-09-27,4,13,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+758,53,2024-05-23,2,1,"Average experience, nothing  special.",-0.3089,Negative,-0.49 to 0.0
+759,21,2024-12-13,2,16,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+760,100,2025-12-18,3,5,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+761,49,2025-03-17,3,16,Customer support was very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+762,39,2025-05-31,4,13,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+763,54,2023-08-16,3,16,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+764,84,2024-07-08,1,11,"Terrible customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+765,74,2024-12-11,1,18,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+766,83,2025-07-31,4,7,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+767,48,2023-10-09,5,11,Exceeded  my expectations!,0.0,Positive,0.0 to 0.49
+768,24,2023-02-18,4,16,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+769,77,2024-09-02,5,7,"Excellent product,  highly recommend!",0.7773,Positive,0.5 to 1.0
+770,52,2025-02-02,4,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+771,32,2025-03-21,4,12,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+772,62,2023-09-13,4,4,Five  stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+773,17,2024-06-21,2,14,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+774,46,2025-12-10,5,6,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+775,13,2025-08-31,4,16,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+776,17,2023-01-12,5,13,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+777,81,2024-02-14,5,6,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+778,97,2025-06-11,5,7,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+779,66,2025-05-25,5,17,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+780,83,2025-10-23,5,1,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+781,68,2024-06-06,5,13,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+782,25,2024-08-19,5,3,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+783,21,2024-11-30,5,18,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+784,22,2024-12-09,2,16,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+785,9,2025-10-11,4,10,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+786,37,2025-07-29,5,13,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+787,59,2024-08-08,3,5,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+788,83,2025-05-16,3,15,Customer support was  very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+789,7,2023-04-08,5,17,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+790,73,2024-06-08,4,9,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+791,11,2023-06-27,3,18,"Average experience, nothing  special.",-0.3089,Mixed Negative,-0.49 to 0.0
+792,88,2023-07-29,3,14,"The product is  okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+793,53,2025-05-21,5,7,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+794,24,2024-12-03,5,17,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+795,4,2024-12-16,5,14,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+796,27,2025-02-27,5,17,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+797,68,2025-02-22,5,19,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+798,95,2023-08-22,2,13,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+799,96,2025-07-17,3,9,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+800,74,2024-05-23,5,8,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+801,36,2023-01-09,2,10,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+802,12,2023-03-04,5,16,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+803,6,2023-09-22,4,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+804,16,2025-09-22,3,8,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+805,76,2024-10-28,2,20,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+806,18,2023-08-28,5,9,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+807,68,2025-03-06,3,8,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+808,49,2025-12-12,3,6,"Good quality, but could be  cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+809,37,2023-08-20,2,17,Product did not meet my  expectations.,0.0,Negative,0.0 to 0.49
+810,56,2025-06-24,2,2,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+811,10,2024-01-28,3,2,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+812,80,2025-04-19,4,20,"I love this product, will  buy again!",0.6696,Positive,0.5 to 1.0
+813,58,2024-03-28,5,15,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+814,93,2024-10-28,3,3,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+815,72,2025-11-19,1,6,I had a bad experience  with this product.,-0.5423,Negative,-1.0 to -0.5
+816,91,2024-01-11,4,1,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+817,6,2024-11-17,3,15,Five stars for the quick delivery.,0.0,Neutral,0.0 to 0.49
+818,55,2023-12-11,3,20,"Average experience, nothing  special.",-0.3089,Mixed Negative,-0.49 to 0.0
+819,20,2024-05-12,4,15,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+820,47,2023-04-10,3,19,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+821,98,2025-10-19,3,12,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+822,47,2023-01-28,4,15,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+823,59,2024-09-29,5,14,Five  stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+824,77,2024-07-30,3,13,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+825,21,2023-01-10,1,18,"Not satisfied, the product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+826,8,2024-10-29,4,11,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+827,84,2025-04-05,5,18,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+828,53,2025-02-28,5,20,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+829,31,2023-05-17,4,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+830,61,2025-07-23,2,19,"Average experience, nothing  special.",-0.3089,Negative,-0.49 to 0.0
+831,48,2025-08-30,3,17,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+832,44,2024-04-23,3,17,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+833,31,2023-08-29,5,18,Exceeded my  expectations!,0.0,Positive,0.0 to 0.49
+834,74,2025-09-21,2,1,"Average  experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+835,12,2024-05-07,5,12,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+836,52,2023-10-25,1,9,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+837,19,2023-12-11,5,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+838,61,2024-04-21,5,17,Shipping was fast and the  item was well-packaged.,0.0,Positive,0.0 to 0.49
+839,79,2024-08-02,4,7,Shipping  was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+840,44,2023-01-30,4,10,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+841,88,2023-08-25,3,10,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+842,70,2024-10-03,5,17,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+843,51,2025-08-28,2,13,Not worth  the money.,-0.1695,Negative,-0.49 to 0.0
+844,66,2023-07-01,4,10,"I love this product, will  buy again!",0.6696,Positive,0.5 to 1.0
+845,89,2023-07-26,3,7,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+846,17,2024-04-22,4,17,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+847,6,2025-05-29,1,5,"Terrible customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+848,6,2023-03-08,1,18,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+849,78,2025-02-01,2,10,"Good quality, but could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+850,89,2023-07-24,4,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+851,31,2025-11-29,5,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+852,37,2024-12-03,4,11,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+853,42,2023-05-19,3,11,"The product is okay, but  the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+854,7,2025-06-09,5,5,Shipping was fast  and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+855,2,2024-01-08,2,7,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+856,23,2023-01-03,5,6,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+857,11,2023-10-17,4,15,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+858,92,2025-05-05,3,17,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+859,6,2024-06-25,5,19,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+860,27,2025-01-26,3,5,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+861,70,2024-04-18,5,8,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+862,4,2025-01-17,2,10,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+863,93,2025-07-05,3,5,"The product is okay, but the  instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+864,85,2025-01-16,4,1,Customer support was very  helpful.,0.6997,Positive,0.5 to 1.0
+865,17,2025-03-03,4,13,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+866,36,2025-03-03,5,16,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+867,7,2023-07-20,1,8,"Terrible customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+868,10,2024-11-01,4,14,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+869,18,2023-02-02,4,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+870,19,2023-03-19,3,2,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+871,3,2024-03-20,5,5,The  build quality is impressive.,0.5106,Positive,0.5 to 1.0
+872,96,2025-04-14,2,3,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+873,82,2025-06-21,5,15,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+874,78,2025-11-09,4,8,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+875,44,2023-11-27,4,20,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+876,10,2024-06-19,1,19,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+877,78,2024-08-28,3,14,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+878,24,2025-05-26,2,10,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+879,2,2023-09-16,4,6,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+880,29,2023-07-31,5,13,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+881,63,2023-04-25,4,2,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+882,6,2024-10-08,4,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+883,4,2023-07-08,4,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+884,24,2023-11-08,5,2,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+885,58,2024-09-10,5,6,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+886,95,2025-02-14,5,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+887,38,2025-03-17,2,10,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+888,83,2023-01-05,1,4,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+889,45,2024-10-02,4,15,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+890,59,2024-07-25,1,5,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+891,48,2025-02-26,3,9,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+892,27,2025-08-01,4,4,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+893,51,2024-02-06,4,3,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+894,82,2023-06-23,3,4,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+895,38,2024-10-28,5,4,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+896,40,2025-10-17,4,20,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+897,48,2025-01-05,2,5,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+898,76,2023-09-18,5,15,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+899,89,2024-01-02,4,9,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+900,10,2025-04-04,3,5,"The product is okay, but the instructions were  unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+901,16,2023-02-15,4,19,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+902,75,2025-07-02,4,13,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+903,69,2025-10-05,4,5,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+904,68,2025-12-24,4,9,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+905,82,2024-05-05,2,4,Not  worth the money.,-0.1695,Negative,-0.49 to 0.0
+906,92,2025-02-27,4,17,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+907,67,2023-10-21,5,3,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+908,37,2025-03-28,3,9,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+909,59,2023-09-08,4,7,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+910,92,2023-06-14,4,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+911,93,2024-06-27,1,6,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+912,100,2025-10-27,2,2,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+913,64,2024-09-06,4,5,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+914,81,2023-03-04,5,19,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+915,55,2024-12-21,1,5,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+916,40,2024-10-05,2,5,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+917,44,2025-05-17,4,20,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+918,50,2024-09-09,3,4,"The product  is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+919,37,2025-02-14,1,18,"Terrible customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+920,28,2025-04-13,4,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+921,93,2023-06-26,5,11,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+922,92,2025-07-22,4,4,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+923,3,2024-02-07,5,20,"Excellent product, highly  recommend!",0.7773,Positive,0.5 to 1.0
+924,62,2024-12-20,3,19,Customer support  was very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+925,2,2025-02-10,1,20,"Terrible customer service, would  not buy again.",-0.4767,Negative,-0.49 to 0.0
+926,86,2023-06-17,4,12,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+927,21,2024-08-08,4,4,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+928,10,2024-05-25,4,9,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+929,47,2024-10-09,5,5,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+930,83,2024-08-05,4,19,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+931,73,2023-09-27,5,8,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+932,11,2023-08-26,5,20,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+933,83,2023-01-11,3,12,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+934,44,2023-04-26,5,3,"I love this  product, will buy again!",0.6696,Positive,0.5 to 1.0
+935,71,2025-08-28,5,12,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+936,99,2023-09-23,4,15,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+937,96,2023-06-08,4,9,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+938,29,2024-07-08,5,12,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+939,42,2024-08-09,5,6,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+940,15,2025-09-12,4,12,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+941,13,2023-05-21,4,9,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+942,69,2023-02-19,5,2,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+943,70,2023-04-15,5,19,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+944,72,2024-08-11,4,2,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+945,46,2025-12-05,4,5,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+946,96,2023-08-28,2,7,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+947,86,2025-11-02,2,18,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+948,29,2025-01-22,5,10,Shipping was fast  and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+949,55,2025-08-25,1,15,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+950,96,2024-02-09,5,9,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+951,80,2024-07-11,2,15,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+952,46,2025-01-14,5,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+953,29,2025-11-22,4,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+954,26,2025-03-13,5,8,Shipping  was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+955,53,2023-03-15,4,12,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+956,33,2024-10-26,2,2,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+957,37,2024-02-26,4,15,"I love this product, will buy  again!",0.6696,Positive,0.5 to 1.0
+958,45,2023-08-17,1,1,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+959,85,2025-01-01,5,9,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+960,81,2024-03-23,4,2,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+961,74,2024-07-10,5,20,"I love this  product, will buy again!",0.6696,Positive,0.5 to 1.0
+962,95,2024-10-16,4,18,"Good quality, but could be  cheaper.",0.2382,Positive,0.0 to 0.49
+963,36,2023-11-17,2,6,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+964,60,2024-06-11,4,18,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+965,25,2024-12-15,5,7,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+966,21,2025-09-30,4,6,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+967,94,2024-04-22,5,12,The build  quality is impressive.,0.5106,Positive,0.5 to 1.0
+968,46,2024-08-07,5,14,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+969,48,2023-04-09,3,4,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+970,43,2024-05-26,3,2,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+971,5,2024-12-17,4,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+972,18,2024-08-01,5,19,Exceeded  my expectations!,0.0,Positive,0.0 to 0.49
+973,4,2024-01-23,4,4,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+974,13,2024-03-01,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+975,84,2023-06-12,3,15,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+976,80,2023-03-30,4,7,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+977,44,2023-06-28,3,10,"Good quality, but could  be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+978,46,2025-07-18,5,13,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+979,14,2024-03-16,4,4,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+980,92,2023-07-14,2,14,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+981,48,2023-05-13,3,10,"The product is  okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+982,63,2023-11-28,4,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+983,31,2024-05-28,5,19,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+984,88,2023-08-23,3,11,"The product is okay, but the  instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+985,78,2025-10-23,2,11,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+986,20,2025-11-30,5,7,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+987,37,2024-09-15,4,16,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+988,14,2025-04-06,4,14,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+989,93,2023-06-11,4,19,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+990,7,2023-05-05,4,4,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+991,97,2025-03-10,4,18,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+992,77,2023-08-16,3,2,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+993,27,2025-01-10,2,12,"Good quality, but could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+994,62,2025-11-27,5,5,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+995,17,2025-07-29,3,8,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+996,85,2025-01-05,5,10,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+997,82,2023-10-03,4,1,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+998,34,2025-05-18,4,11,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+999,37,2023-05-28,4,8,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1000,86,2025-11-17,4,12,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1001,72,2023-12-06,3,13,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1002,25,2025-05-15,4,15,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1003,14,2025-03-31,5,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1004,53,2024-01-14,4,10,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1005,82,2024-10-23,4,17,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1006,87,2023-06-14,5,2,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1007,49,2024-02-15,5,9,Amazing value  for the price.,0.7351,Positive,0.5 to 1.0
+1008,60,2025-09-05,3,13,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1009,31,2025-11-21,2,3,"The product is okay, but the instructions were  unclear.",-0.2617,Negative,-0.49 to 0.0
+1010,3,2025-05-17,3,3,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1011,80,2023-10-11,5,19,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1012,26,2025-02-25,2,3,Not  worth the money.,-0.1695,Negative,-0.49 to 0.0
+1013,32,2025-07-12,4,8,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1014,81,2023-04-16,4,20,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1015,25,2023-03-05,2,2,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1016,30,2025-08-27,2,16,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1017,84,2025-05-26,5,13,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1018,44,2024-07-29,2,20,Not worth  the money.,-0.1695,Negative,-0.49 to 0.0
+1019,25,2023-07-12,4,12,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1020,100,2025-09-02,3,5,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1021,49,2024-03-16,4,20,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1022,71,2025-01-23,3,5,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1023,77,2023-10-19,4,18,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1024,85,2025-11-05,3,19,Shipping was fast and the item was well-packaged.,0.0,Neutral,0.0 to 0.49
+1025,31,2025-02-17,3,16,"Good quality, but could  be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1026,90,2023-11-10,3,12,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1027,22,2025-07-20,3,14,Not  worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1028,66,2023-04-17,3,3,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1029,66,2025-11-14,3,6,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1030,46,2024-10-02,5,16,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1031,28,2024-05-22,3,1,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1032,46,2025-06-03,4,17,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1033,74,2023-02-16,4,11,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1034,34,2024-02-04,1,19,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1035,77,2023-11-25,5,9,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1036,24,2025-08-16,2,7,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+1037,66,2024-05-20,4,16,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1038,22,2024-05-28,3,13,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1039,15,2024-11-25,3,1,Five stars for the quick delivery.,0.0,Neutral,0.0 to 0.49
+1040,100,2024-03-02,5,19,The build quality is  impressive.,0.5106,Positive,0.5 to 1.0
+1041,19,2024-04-14,4,18,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1042,68,2023-10-06,3,1,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1043,29,2025-01-06,4,12,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1044,79,2024-03-22,4,1,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1045,33,2024-12-14,3,19,"The product is  okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1046,45,2025-05-17,1,8,The product arrived late.,0.0,Negative,0.0 to 0.49
+1047,6,2025-10-09,5,5,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1048,25,2025-11-18,3,17,Customer support was very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+1049,50,2023-05-26,5,2,Five stars for  the quick delivery.,0.0,Positive,0.0 to 0.49
+1050,83,2024-06-14,5,8,"Excellent product, highly  recommend!",0.7773,Positive,0.5 to 1.0
+1051,63,2024-03-16,2,5,The product arrived late.,0.0,Negative,0.0 to 0.49
+1052,55,2023-08-14,4,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1053,6,2024-02-29,5,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1054,82,2024-03-27,3,17,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1055,17,2024-10-18,3,7,"Average experience,  nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1056,68,2023-09-14,2,17,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1057,49,2024-09-13,3,17,Shipping was fast and the item was well-packaged.,0.0,Neutral,0.0 to 0.49
+1058,32,2024-11-16,3,16,"Great purchase, very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+1059,67,2023-12-23,2,2,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1060,15,2023-05-05,3,10,"Good quality, but could be  cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1061,64,2023-12-17,4,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1062,93,2023-11-21,5,13,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+1063,5,2025-09-21,4,6,"Good quality,  but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1064,32,2024-09-02,3,16,"The  product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1065,33,2023-03-21,5,9,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1066,81,2025-08-29,4,6,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+1067,50,2024-05-09,5,7,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+1068,61,2025-08-16,2,15,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+1069,84,2025-03-05,4,9,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1070,23,2025-08-16,3,20,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1071,23,2024-09-16,4,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1072,51,2023-02-15,3,2,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1073,30,2023-09-22,4,10,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1074,21,2023-04-07,4,13,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1075,52,2025-07-25,5,9,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1076,22,2024-10-29,5,9,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1077,95,2025-04-18,5,14,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+1078,8,2023-12-15,4,2,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1079,73,2025-06-19,3,16,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1080,86,2025-05-27,4,16,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+1081,91,2023-07-31,5,5,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1082,87,2025-02-09,5,13,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1083,40,2024-04-02,4,6,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1084,99,2023-10-29,3,12,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1085,46,2025-07-02,4,6,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1086,47,2024-04-07,5,11,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1087,35,2023-07-27,3,10,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1088,55,2025-05-05,4,13,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1089,54,2024-04-12,3,12,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1090,3,2023-01-09,4,14,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1091,72,2024-01-28,2,2,The product  arrived late.,0.0,Negative,0.0 to 0.49
+1092,82,2023-02-16,4,5,Five stars  for the quick delivery.,0.0,Positive,0.0 to 0.49
+1093,25,2025-10-24,3,8,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1094,48,2023-07-04,2,11,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1095,31,2024-09-23,4,15,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+1096,82,2023-11-17,4,13,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1097,47,2023-10-15,2,12,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+1098,62,2023-04-02,5,15,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1099,90,2024-03-17,5,12,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1100,88,2025-08-13,4,14,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1101,58,2025-01-09,5,13,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1102,35,2024-02-01,4,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1103,39,2023-05-12,5,5,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1104,39,2023-08-06,3,6,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1105,20,2023-03-19,3,16,"Good  quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1106,37,2025-01-29,5,5,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1107,51,2024-03-27,4,14,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1108,50,2023-05-03,1,3,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+1109,22,2023-06-09,5,18,"Excellent product,  highly recommend!",0.7773,Positive,0.5 to 1.0
+1110,38,2024-04-26,3,8,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1111,91,2024-01-25,3,16,"Good quality,  but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1112,40,2023-06-07,5,1,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1113,28,2024-11-23,3,3,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1114,56,2025-06-14,4,15,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1115,82,2023-10-12,3,4,"Good quality, but could be  cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1116,52,2025-05-22,4,5,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1117,74,2023-09-12,4,11,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1118,50,2023-05-15,4,16,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1119,99,2024-01-19,2,4,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1120,4,2024-09-30,2,17,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+1121,23,2023-06-25,4,20,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1122,78,2023-12-03,5,19,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1123,68,2024-06-02,3,20,"The product is  okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1124,6,2025-10-22,5,9,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1125,100,2025-07-20,2,12,"Good quality, but could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+1126,10,2025-03-19,2,19,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1127,82,2024-01-06,4,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1128,77,2023-02-11,5,6,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1129,80,2024-11-06,5,10,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1130,88,2025-12-30,4,13,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1131,97,2025-06-02,5,2,The build  quality is impressive.,0.5106,Positive,0.5 to 1.0
+1132,68,2023-12-22,3,9,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1133,46,2023-09-12,4,19,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1134,29,2024-06-16,5,8,The  build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1135,77,2024-10-26,1,12,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1136,62,2025-03-02,5,8,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1137,73,2025-01-19,3,5,Five stars for the quick delivery.,0.0,Neutral,0.0 to 0.49
+1138,81,2024-12-23,3,4,The quality is top-notch.,0.0,Neutral,0.0 to 0.49
+1139,18,2024-02-28,3,5,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1140,28,2023-03-07,2,12,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+1141,24,2023-04-01,5,17,Customer  support was very helpful.,0.6997,Positive,0.5 to 1.0
+1142,4,2024-04-24,4,2,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1143,75,2025-08-09,4,18,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1144,24,2024-01-29,5,8,The build quality  is impressive.,0.5106,Positive,0.5 to 1.0
+1145,61,2024-02-25,5,8,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1146,88,2024-02-10,4,15,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1147,79,2025-05-09,5,5,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1148,94,2024-10-11,4,2,"Good quality, but  could be cheaper.",0.2382,Positive,0.0 to 0.49
+1149,67,2023-12-24,3,13,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1150,90,2024-02-19,5,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1151,46,2025-01-19,5,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1152,23,2025-11-05,3,14,Customer  support was very helpful.,0.6997,Mixed Positive,0.5 to 1.0
+1153,53,2023-06-17,5,10,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1154,9,2023-07-09,2,19,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+1155,1,2025-01-09,5,12,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1156,79,2024-06-16,3,18,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1157,13,2025-07-16,1,12,The product stopped working after a month.,-0.2263,Negative,-0.49 to 0.0
+1158,99,2024-07-29,4,20,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1159,59,2025-01-29,5,9,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1160,97,2025-12-26,5,7,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1161,10,2023-01-01,5,19,Shipping was fast and the  item was well-packaged.,0.0,Positive,0.0 to 0.49
+1162,55,2024-06-08,2,10,The product arrived late.,0.0,Negative,0.0 to 0.49
+1163,15,2023-10-04,3,11,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1164,69,2023-01-04,3,3,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1165,20,2024-02-06,5,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1166,63,2024-11-10,5,15,The build quality  is impressive.,0.5106,Positive,0.5 to 1.0
+1167,50,2024-08-21,5,19,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1168,93,2025-09-21,5,16,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1169,97,2025-06-24,4,19,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1170,78,2023-12-19,4,4,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1171,49,2024-01-12,2,4,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+1172,33,2025-04-03,5,15,The  build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1173,76,2025-08-09,4,3,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1174,69,2025-08-24,4,3,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1175,78,2025-07-04,5,6,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1176,74,2025-05-27,5,15,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1177,45,2023-12-28,3,10,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1178,43,2024-09-08,1,6,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+1179,84,2025-07-31,3,7,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1180,64,2025-06-19,5,18,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1181,28,2025-02-25,3,8,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1182,70,2023-08-21,4,15,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1183,91,2023-02-06,3,4,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1184,5,2023-12-25,5,18,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1185,5,2025-10-01,5,12,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1186,80,2025-10-15,4,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1187,66,2023-06-11,4,9,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1188,17,2023-04-05,5,2,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+1189,32,2023-12-28,3,20,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1190,16,2024-08-19,1,4,The  product arrived late.,0.0,Negative,0.0 to 0.49
+1191,60,2023-08-27,5,19,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1192,80,2024-05-21,3,19,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1193,7,2025-06-13,5,2,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1194,11,2023-03-01,3,13,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1195,89,2023-11-19,5,2,Exceeded  my expectations!,0.0,Positive,0.0 to 0.49
+1196,57,2024-06-07,5,16,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1197,70,2024-10-30,1,15,The product arrived late.,0.0,Negative,0.0 to 0.49
+1198,92,2024-06-25,4,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1199,71,2024-09-16,4,7,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1200,89,2024-04-04,4,17,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1201,14,2023-08-04,4,11,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1202,28,2023-04-28,3,17,Not worth the  money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1203,2,2025-07-20,4,19,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1204,19,2024-11-06,4,18,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1205,73,2025-12-04,5,17,The quality  is top-notch.,0.0,Positive,0.0 to 0.49
+1206,50,2023-07-06,4,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1207,90,2025-06-27,5,18,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1208,16,2024-07-11,5,15,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1209,53,2024-04-03,5,10,Five stars for  the quick delivery.,0.0,Positive,0.0 to 0.49
+1210,67,2024-10-24,4,8,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1211,30,2023-10-04,5,18,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+1212,82,2024-10-11,2,19,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1213,14,2023-12-23,5,9,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1214,100,2025-08-27,4,10,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1215,68,2025-03-28,2,7,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1216,53,2023-04-14,5,11,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+1217,81,2024-01-14,5,18,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1218,8,2025-11-09,5,9,Shipping was  fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1219,49,2025-05-28,5,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1220,25,2023-01-26,2,8,The product arrived late.,0.0,Negative,0.0 to 0.49
+1221,42,2023-08-31,4,17,"Good quality, but could  be cheaper.",0.2382,Positive,0.0 to 0.49
+1222,57,2025-05-23,3,6,"I love this product, will buy  again!",0.6696,Mixed Positive,0.5 to 1.0
+1223,18,2025-11-12,3,16,"Great purchase, very satisfied.",0.8016,Mixed Positive,0.5 to 1.0
+1224,82,2025-11-30,5,14,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1225,93,2024-08-08,2,8,The product arrived late.,0.0,Negative,0.0 to 0.49
+1226,75,2024-08-17,5,5,"I love this product,  will buy again!",0.6696,Positive,0.5 to 1.0
+1227,30,2025-01-20,5,14,"Great purchase, very  satisfied.",0.8016,Positive,0.5 to 1.0
+1228,57,2023-11-30,4,1,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1229,31,2025-06-01,4,17,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1230,55,2025-04-27,5,18,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1231,81,2024-09-02,2,7,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1232,7,2024-09-18,5,17,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1233,73,2024-03-13,3,5,"The product is  okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1234,37,2024-02-21,3,8,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1235,87,2023-05-24,5,1,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1236,60,2023-02-07,4,3,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1237,94,2024-10-20,1,17,"Not satisfied, the product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+1238,15,2025-06-13,4,9,Customer  support was very helpful.,0.6997,Positive,0.5 to 1.0
+1239,49,2024-02-07,5,15,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1240,66,2025-02-28,3,5,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1241,62,2024-03-11,3,17,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1242,22,2025-02-08,4,19,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1243,92,2023-11-08,5,10,"Great  purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1244,8,2024-01-20,5,7,"I love this product, will  buy again!",0.6696,Positive,0.5 to 1.0
+1245,60,2025-12-19,3,5,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1246,53,2024-08-04,4,1,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1247,79,2024-08-08,2,6,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+1248,72,2025-12-19,4,2,Shipping was fast and the item was  well-packaged.,0.0,Positive,0.0 to 0.49
+1249,72,2025-01-23,3,5,"Average  experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1250,11,2025-10-23,1,10,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1251,20,2024-06-10,3,2,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1252,87,2024-12-10,5,8,Exceeded  my expectations!,0.0,Positive,0.0 to 0.49
+1253,68,2024-06-30,3,3,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1254,45,2024-02-16,5,4,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1255,42,2025-12-15,5,8,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1256,80,2025-08-12,2,4,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+1257,93,2023-02-05,4,10,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1258,80,2023-11-13,5,1,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+1259,66,2023-06-13,3,15,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1260,47,2025-09-02,5,6,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1261,12,2023-08-08,4,18,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1262,46,2024-08-26,2,17,Disappointed with  the performance.,-0.4767,Negative,-0.49 to 0.0
+1263,48,2023-09-20,3,9,"Average  experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1264,72,2023-05-07,5,7,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1265,81,2023-04-29,4,20,Customer support  was very helpful.,0.6997,Positive,0.5 to 1.0
+1266,65,2025-07-01,4,14,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1267,85,2024-07-11,5,4,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1268,60,2023-10-06,3,6,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1269,39,2024-02-09,4,13,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+1270,72,2025-07-11,4,16,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1271,64,2024-04-28,4,10,The quality  is top-notch.,0.0,Positive,0.0 to 0.49
+1272,82,2025-12-24,4,14,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1273,74,2024-02-19,4,10,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1274,24,2025-08-14,1,1,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1275,52,2023-06-06,5,2,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1276,52,2024-11-05,2,10,"Good quality, but  could be cheaper.",0.2382,Mixed Negative,0.0 to 0.49
+1277,20,2023-09-28,4,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1278,25,2023-06-22,5,17,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1279,54,2025-09-13,3,8,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1280,88,2023-01-18,3,19,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1281,58,2023-09-24,5,12,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1282,7,2023-04-24,2,19,The product arrived late.,0.0,Negative,0.0 to 0.49
+1283,67,2024-09-24,3,2,"The  product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1284,2,2025-10-04,1,12,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1285,81,2024-07-15,4,12,"Good quality, but could be  cheaper.",0.2382,Positive,0.0 to 0.49
+1286,89,2025-03-12,5,19,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1287,69,2024-10-04,2,17,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1288,77,2025-06-09,5,8,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1289,52,2023-09-30,3,7,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1290,30,2024-04-01,3,6,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1291,90,2024-05-20,4,2,Shipping was fast and the item  was well-packaged.,0.0,Positive,0.0 to 0.49
+1292,16,2024-03-15,5,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1293,23,2024-11-07,5,2,Exceeded my expectations!,0.0,Positive,0.0 to 0.49
+1294,86,2023-06-11,4,11,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1295,61,2025-09-16,5,8,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1296,60,2025-10-26,4,9,"Good quality,  but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1297,87,2024-08-14,3,5,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1298,82,2024-08-13,4,1,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1299,44,2025-07-02,4,18,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1300,6,2024-04-14,4,11,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1301,79,2025-05-28,4,13,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1302,20,2023-11-29,3,11,"Good quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1303,99,2024-03-22,4,3,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1304,77,2024-05-09,3,15,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1305,24,2025-01-26,1,4,The  product arrived late.,0.0,Negative,0.0 to 0.49
+1306,89,2023-09-03,4,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1307,36,2024-05-16,3,13,"Average  experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1308,46,2025-02-03,4,5,"Great purchase,  very satisfied.",0.8016,Positive,0.5 to 1.0
+1309,53,2024-10-12,4,8,"I love this product,  will buy again!",0.6696,Positive,0.5 to 1.0
+1310,96,2025-11-19,3,17,"Good  quality, but could be cheaper.",0.2382,Mixed Positive,0.0 to 0.49
+1311,71,2023-01-29,5,13,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1312,11,2023-05-16,4,18,"Good quality, but could be cheaper.",0.2382,Positive,0.0 to 0.49
+1313,2,2025-06-30,5,2,The build quality  is impressive.,0.5106,Positive,0.5 to 1.0
+1314,63,2025-03-17,5,2,Amazing value for the price.,0.7351,Positive,0.5 to 1.0
+1315,85,2023-05-28,4,14,"I  love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1316,40,2025-05-24,2,20,"The product is okay, but the instructions were unclear.",-0.2617,Negative,-0.49 to 0.0
+1317,24,2025-11-08,1,8,The product arrived late.,0.0,Negative,0.0 to 0.49
+1318,28,2024-02-13,3,1,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1319,84,2024-07-20,1,6,Product did not meet my  expectations.,0.0,Negative,0.0 to 0.49
+1320,74,2024-11-26,1,10,I had a bad experience with this product.,-0.5423,Negative,-1.0 to -0.5
+1321,32,2025-02-25,2,3,The product arrived late.,0.0,Negative,0.0 to 0.49
+1322,70,2024-04-15,1,16,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1323,61,2025-10-27,1,17,Product did  not meet my expectations.,0.0,Negative,0.0 to 0.49
+1324,36,2025-12-27,4,10,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1325,66,2024-08-07,3,12,"I love this product, will buy again!",0.6696,Mixed Positive,0.5 to 1.0
+1326,69,2024-06-09,5,4,"Great purchase, very satisfied.",0.8016,Positive,0.5 to 1.0
+1327,37,2025-05-20,2,9,"Average experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+1328,97,2025-12-23,4,11,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1329,45,2024-01-03,2,19,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1330,24,2025-05-31,2,12,Not worth the money.,-0.1695,Negative,-0.49 to 0.0
+1331,88,2025-06-02,4,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1332,72,2024-06-15,5,4,Amazing value for the  price.,0.7351,Positive,0.5 to 1.0
+1333,6,2023-12-06,3,3,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1334,39,2025-04-03,4,11,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1335,43,2025-03-06,4,15,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1336,95,2023-11-27,1,9,"Not satisfied, the  product broke after a week.",-0.6288,Negative,-1.0 to -0.5
+1337,89,2023-10-09,3,4,"Average experience, nothing special.",-0.3089,Mixed Negative,-0.49 to 0.0
+1338,44,2025-02-01,2,13,Disappointed with the performance.,-0.4767,Negative,-0.49 to 0.0
+1339,76,2024-11-01,5,19,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1340,62,2025-07-10,3,7,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1341,64,2023-06-21,2,7,"Average experience, nothing  special.",-0.3089,Negative,-0.49 to 0.0
+1342,91,2025-06-03,5,1,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1343,39,2025-04-10,5,4,The build quality is impressive.,0.5106,Positive,0.5 to 1.0
+1344,31,2025-05-16,5,20,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1345,55,2023-10-14,5,18,"Excellent product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1346,47,2024-10-14,2,6,The product arrived late.,0.0,Negative,0.0 to 0.49
+1347,21,2025-07-16,4,11,Shipping was fast and the item was well-packaged.,0.0,Positive,0.0 to 0.49
+1348,45,2024-02-14,5,19,"I love this product, will buy again!",0.6696,Positive,0.5 to 1.0
+1349,22,2025-04-11,4,10,Five stars for the quick delivery.,0.0,Positive,0.0 to 0.49
+1350,69,2024-02-01,3,9,"The product is okay, but the instructions were unclear.",-0.2617,Mixed Negative,-0.49 to 0.0
+1351,30,2023-07-23,1,20,"Not satisfied, the product broke  after a week.",-0.6288,Negative,-1.0 to -0.5
+1352,50,2025-06-25,5,14,The quality is  top-notch.,0.0,Positive,0.0 to 0.49
+1353,34,2024-06-30,5,5,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1354,53,2024-05-08,5,8,"Excellent  product, highly recommend!",0.7773,Positive,0.5 to 1.0
+1355,9,2025-05-29,5,20,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1356,14,2025-04-18,4,15,The quality is top-notch.,0.0,Positive,0.0 to 0.49
+1357,23,2024-01-03,1,17,"Terrible  customer service, would not buy again.",-0.4767,Negative,-0.49 to 0.0
+1358,90,2024-01-16,3,10,Not worth  the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1359,28,2023-05-25,3,4,Not worth the money.,-0.1695,Mixed Negative,-0.49 to 0.0
+1360,58,2023-11-13,2,12,"Average  experience, nothing special.",-0.3089,Negative,-0.49 to 0.0
+1361,96,2023-03-07,5,15,Customer support was very helpful.,0.6997,Positive,0.5 to 1.0
+1362,99,2025-12-03,1,2,Product did not meet my expectations.,0.0,Negative,0.0 to 0.49
+1363,16,2024-07-16,2,4,The product arrived late.,0.0,Negative,0.0 to 0.49
